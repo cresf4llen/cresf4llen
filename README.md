@@ -1,8 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h3 align="left">About Me</h3>
+<h1 align="left">About Me</h1>
 
 ###
 
