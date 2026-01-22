@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Dachi Sebiskveradze, a 18-year-old web developer from Georgia. Currently enrolled in a 2-year bootcamp at IT Step Academy, learning Angular, TypeScript, C#,React/React Native and full-stack development.<br>I run Swift Development, a web agency building fast, modern websites for small businesses.<br>Always learning, always building,  let’s connect and create something impactful.
+Hi, I’m Dachi Sebiskveradze, a 18-year-old web developer from Georgia.<br>I run Swift Development, a web agency building fast, modern websites for small businesses.<br>Always learning, always building,  let’s connect and create something impactful.
 
 
 ## 🌐 Socials:
