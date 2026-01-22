@@ -40,12 +40,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31uu5ka3ozhuze3nu7hx3su25oee">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31uu5ka3ozhuze3nu7hx3su25oee&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
